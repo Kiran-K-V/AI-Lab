@@ -1,0 +1,81 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-688382",
+  "patient": {
+    "name": "Omar Patel",
+    "sex": "male",
+    "date_of_birth": null,
+    "patient_id": "P82910"
+  },
+  "ordering_physician": "Dr. Lucas Nguyen",
+  "collected_at": "2026-08-09T09:48:00",
+  "reported_at": "2026-08-09T14:48:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 172.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 3.0,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 5.4,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.34,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.46,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 15.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-845063",
+  "patient": {
+    "name": "Noah Haddad",
+    "sex": "male",
+    "date_of_birth": "1988-02-21",
+    "patient_id": "P75043"
+  },
+  "ordering_physician": "Dr. Ava Rossi",
+  "collected_at": "2026-07-22T07:10:00",
+  "reported_at": "2026-07-23T12:10:00",
+  "results": [
+    {
+      "name": "WBC Count",
+      "value": 4.6,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Creatinine",
+      "value": 1.18,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 0.6,
+        "high": 1.3
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 192.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 56.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 114.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 150.0
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

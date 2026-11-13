@@ -1,0 +1,59 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-672478",
+  "patient": {
+    "name": "Ava Brown",
+    "sex": "female",
+    "date_of_birth": "1958-08-26",
+    "patient_id": "P56740"
+  },
+  "ordering_physician": "Dr. Omar Silva",
+  "collected_at": "2026-04-04T07:27:00",
+  "reported_at": "2026-04-04T15:27:00",
+  "results": [
+    {
+      "name": "Glucose, Fasting",
+      "value": 63.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 70.0,
+        "high": 99.0
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 99.0,
+      "unit": null,
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 53.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 40.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

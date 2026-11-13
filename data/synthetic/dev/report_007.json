@@ -1,0 +1,59 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-951389",
+  "patient": {
+    "name": "Omar Kim",
+    "sex": "female",
+    "date_of_birth": null,
+    "patient_id": "P76188"
+  },
+  "ordering_physician": "Dr. Lucas Brown",
+  "collected_at": "2026-01-29T06:06:00",
+  "reported_at": null,
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 14.9,
+      "unit": "g/dL",
+      "reference_range": {
+        "low": 12.0,
+        "high": 17.5
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 4.5,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 108.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 70.0,
+        "high": 99.0
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 66.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

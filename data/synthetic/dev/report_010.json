@@ -1,0 +1,80 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-962571",
+  "patient": {
+    "name": "Hana Silva",
+    "sex": "male",
+    "date_of_birth": "1983-03-25",
+    "patient_id": null
+  },
+  "ordering_physician": "Dr. Ava Haddad",
+  "collected_at": "2026-01-24T07:30:00",
+  "reported_at": "2026-01-24T11:30:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 10.8,
+      "unit": "g/dL",
+      "reference_range": {
+        "low": 12.0,
+        "high": 17.5
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 152.0,
+      "unit": "mg/dL",
+      "reference_range": null,
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 0.33,
+      "unit": "mg/dL",
+      "reference_range": null,
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Potassium",
+      "value": 5.3,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 142.0,
+      "unit": "mg/dL",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 74.0,
+      "unit": "mg/dL",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 119.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 150.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

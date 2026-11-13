@@ -1,0 +1,103 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-518364",
+  "patient": {
+    "name": "Ethan Brown",
+    "sex": "male",
+    "date_of_birth": "1963-05-31",
+    "patient_id": "P39989"
+  },
+  "ordering_physician": "Dr. Priya Nguyen",
+  "collected_at": "2026-05-02T06:47:00",
+  "reported_at": null,
+  "results": [
+    {
+      "name": "WBC Count",
+      "value": 12.4,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "high",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 5.6,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Creatinine",
+      "value": 87.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 5.6,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 4.4,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.94,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.72,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 29.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": "Liver Function"
+    }
+  ]
+}

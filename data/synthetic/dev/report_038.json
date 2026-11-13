@@ -1,0 +1,92 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-116930",
+  "patient": {
+    "name": "Ava Brown",
+    "sex": "female",
+    "date_of_birth": null,
+    "patient_id": "P35763"
+  },
+  "ordering_physician": "Dr. Lucas Silva",
+  "collected_at": "2026-08-12T08:03:00",
+  "reported_at": "2026-08-13T15:03:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 14.9,
+      "unit": "g/dL",
+      "reference_range": {
+        "low": 12.0,
+        "high": 17.5
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 6.7,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Potassium",
+      "value": 5.8,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 168.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 46.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 104.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 150.0
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 26.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": "Liver Function"
+    }
+  ]
+}

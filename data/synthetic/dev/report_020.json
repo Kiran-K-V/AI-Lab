@@ -1,0 +1,59 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": "ACC-731573",
+  "patient": {
+    "name": "Noah Garcia",
+    "sex": "male",
+    "date_of_birth": "1981-09-20",
+    "patient_id": "P93165"
+  },
+  "ordering_physician": "Dr. Ethan Rossi",
+  "collected_at": "2026-09-21T10:58:00",
+  "reported_at": "2026-09-23T06:58:00",
+  "results": [
+    {
+      "name": "WBC Count",
+      "value": 6.3,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Potassium",
+      "value": 3.6,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 220.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 40.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": "Liver Function"
+    }
+  ]
+}

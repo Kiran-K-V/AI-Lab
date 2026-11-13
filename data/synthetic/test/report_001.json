@@ -1,0 +1,59 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": null,
+  "patient": {
+    "name": "Sofia Garcia",
+    "sex": "male",
+    "date_of_birth": "1955-12-02",
+    "patient_id": "P77336"
+  },
+  "ordering_physician": "Dr. Noah Rossi",
+  "collected_at": "2026-09-27T07:35:00",
+  "reported_at": "2026-09-28T20:35:00",
+  "results": [
+    {
+      "name": "Glucose, Fasting",
+      "value": 115.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 70.0,
+        "high": 99.0
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Creatinine",
+      "value": 0.29,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 0.6,
+        "high": 1.3
+      },
+      "status": "low",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 261.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 36.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "low",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

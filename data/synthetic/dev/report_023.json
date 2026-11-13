@@ -1,0 +1,81 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": null,
+  "patient": {
+    "name": "Omar Silva",
+    "sex": null,
+    "date_of_birth": "1981-05-18",
+    "patient_id": "P61921"
+  },
+  "ordering_physician": "Dr. Ava Okafor",
+  "collected_at": "2026-05-21T06:45:00",
+  "reported_at": "2026-05-22T13:45:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 178.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "high",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 2.9,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "low",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 6.1,
+      "unit": null,
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 3.1,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "low",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 6.6,
+      "unit": null,
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.62,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

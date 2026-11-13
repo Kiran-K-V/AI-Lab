@@ -1,0 +1,59 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": null,
+  "patient": {
+    "name": "Omar Kim",
+    "sex": "female",
+    "date_of_birth": "1969-05-27",
+    "patient_id": "P81778"
+  },
+  "ordering_physician": "Dr. Lucas Rossi",
+  "collected_at": "2026-03-22T07:54:00",
+  "reported_at": "2026-03-23T21:54:00",
+  "results": [
+    {
+      "name": "WBC Count",
+      "value": 0.4,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "critical_low",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Creatinine",
+      "value": 0.99,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 0.6,
+        "high": 1.3
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 5.4,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 54.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

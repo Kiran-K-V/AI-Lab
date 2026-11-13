@@ -1,0 +1,70 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-174250",
+  "patient": {
+    "name": "Ava Rossi",
+    "sex": "male",
+    "date_of_birth": "1999-08-22",
+    "patient_id": "P66366"
+  },
+  "ordering_physician": null,
+  "collected_at": "2026-06-11T10:34:00",
+  "reported_at": "2026-06-11T19:34:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 154.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Creatinine",
+      "value": 94.0,
+      "unit": null,
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 5.0,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.24,
+      "unit": null,
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 2.58,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

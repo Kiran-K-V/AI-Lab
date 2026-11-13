@@ -1,0 +1,92 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-787658",
+  "patient": {
+    "name": "Noah Patel",
+    "sex": "female",
+    "date_of_birth": "1994-09-01",
+    "patient_id": "P14549"
+  },
+  "ordering_physician": "Dr. Sofia Okafor",
+  "collected_at": "2026-04-25T08:16:00",
+  "reported_at": null,
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 138.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 6.3,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 4.3,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Creatinine",
+      "value": 61.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 4.4,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 6.9,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.22,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

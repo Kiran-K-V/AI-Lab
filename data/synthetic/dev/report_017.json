@@ -1,0 +1,92 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": "ACC-594393",
+  "patient": {
+    "name": "Priya Brown",
+    "sex": "female",
+    "date_of_birth": "1942-06-18",
+    "patient_id": "P64902"
+  },
+  "ordering_physician": null,
+  "collected_at": "2026-01-09T11:09:00",
+  "reported_at": "2026-01-09T16:09:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 127.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 5.6,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 8.0,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Creatinine",
+      "value": 94.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 4.9,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.06,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 3.02,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

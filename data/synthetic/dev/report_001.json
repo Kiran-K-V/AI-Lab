@@ -1,0 +1,64 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": "ACC-342081",
+  "patient": {
+    "name": "Priya Okafor",
+    "sex": "male",
+    "date_of_birth": "1960-11-28",
+    "patient_id": null
+  },
+  "ordering_physician": "Dr. Ethan Patel",
+  "collected_at": "2026-08-13T09:35:00",
+  "reported_at": "2026-08-14T21:35:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 112.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "WBC Count",
+      "value": 4.3,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 106.0,
+      "unit": "umol/L",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 5.6,
+      "unit": "mmol/L",
+      "reference_range": null,
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 0.77,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

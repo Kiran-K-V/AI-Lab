@@ -1,0 +1,78 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-327344",
+  "patient": {
+    "name": "Noah Haddad",
+    "sex": "female",
+    "date_of_birth": null,
+    "patient_id": "P12940"
+  },
+  "ordering_physician": null,
+  "collected_at": "2026-01-22T06:02:00",
+  "reported_at": "2026-01-23T22:02:00",
+  "results": [
+    {
+      "name": "WBC Count",
+      "value": 3.5,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 77.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 5.1,
+      "unit": "mmol/L",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 0.89,
+      "unit": null,
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.28,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 10.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

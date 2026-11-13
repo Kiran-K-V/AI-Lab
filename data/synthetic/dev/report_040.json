@@ -1,0 +1,78 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-532349",
+  "patient": {
+    "name": "Maya Haddad",
+    "sex": "male",
+    "date_of_birth": "1996-01-11",
+    "patient_id": "P35880"
+  },
+  "ordering_physician": null,
+  "collected_at": "2026-01-19T06:32:00",
+  "reported_at": "2026-01-20T17:32:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 13.7,
+      "unit": "g/dL",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 183.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 70.0,
+        "high": 99.0
+      },
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 0.96,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 0.6,
+        "high": 1.3
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 187.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 49.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 39.0,
+      "unit": null,
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

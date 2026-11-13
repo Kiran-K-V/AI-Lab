@@ -1,0 +1,81 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": "ACC-228557",
+  "patient": {
+    "name": "Hana Haddad",
+    "sex": "female",
+    "date_of_birth": "1971-05-10",
+    "patient_id": null
+  },
+  "ordering_physician": "Dr. Ethan Chen",
+  "collected_at": "2026-06-13T09:54:00",
+  "reported_at": "2026-06-13T23:54:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 173.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 11.7,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "high",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Creatinine",
+      "value": 76.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 4.7,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 4.7,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 0.0,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

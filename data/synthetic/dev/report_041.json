@@ -1,0 +1,103 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": null,
+  "patient": {
+    "name": "Maya Chen",
+    "sex": "female",
+    "date_of_birth": "1980-01-17",
+    "patient_id": "P57511"
+  },
+  "ordering_physician": "Dr. Priya Patel",
+  "collected_at": "2026-03-15T10:26:00",
+  "reported_at": "2026-03-17T07:26:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 120.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "WBC Count",
+      "value": 10.6,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 5.3,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Creatinine",
+      "value": 129.0,
+      "unit": null,
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 5.9,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.04,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.28,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 0.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "low",
+      "panel": "Liver Function"
+    }
+  ]
+}

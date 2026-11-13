@@ -1,0 +1,108 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-342520",
+  "patient": {
+    "name": "Liam Rossi",
+    "sex": "male",
+    "date_of_birth": "1966-01-31",
+    "patient_id": "P53967"
+  },
+  "ordering_physician": "Dr. Lucas Silva",
+  "collected_at": "2026-04-13T10:02:00",
+  "reported_at": "2026-04-14T23:02:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 153.0,
+      "unit": "g/L",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "WBC Count",
+      "value": 7.6,
+      "unit": null,
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 6.9,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 59.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Potassium",
+      "value": 3.7,
+      "unit": null,
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 5.3,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.52,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.57,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 33.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

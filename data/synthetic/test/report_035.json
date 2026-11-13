@@ -1,0 +1,70 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-542997",
+  "patient": {
+    "name": "Omar Okafor",
+    "sex": "male",
+    "date_of_birth": "1995-08-24",
+    "patient_id": "P79354"
+  },
+  "ordering_physician": "Dr. Ethan Brown",
+  "collected_at": "2026-08-30T11:12:00",
+  "reported_at": "2026-08-31T16:12:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 139.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "WBC Count",
+      "value": 6.3,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 37.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "low",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 0.78,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 20.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}

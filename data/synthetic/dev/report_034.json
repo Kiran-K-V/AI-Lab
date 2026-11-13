@@ -1,0 +1,78 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-649424",
+  "patient": {
+    "name": "Sofia Rossi",
+    "sex": "male",
+    "date_of_birth": null,
+    "patient_id": "P40243"
+  },
+  "ordering_physician": null,
+  "collected_at": "2026-10-16T07:50:00",
+  "reported_at": "2026-10-17T19:50:00",
+  "results": [
+    {
+      "name": "WBC Count",
+      "value": 9.3,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Potassium",
+      "value": 4.4,
+      "unit": "mmol/L",
+      "reference_range": null,
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 4.2,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.08,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.2,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 81.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "high",
+      "panel": "Liver Function"
+    }
+  ]
+}

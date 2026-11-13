@@ -1,0 +1,81 @@
+{
+  "lab_name": "Northside Diagnostics",
+  "accession_number": "ACC-395225",
+  "patient": {
+    "name": "Ethan Nguyen",
+    "sex": "male",
+    "date_of_birth": null,
+    "patient_id": "P97549"
+  },
+  "ordering_physician": null,
+  "collected_at": "2026-07-11T11:22:00",
+  "reported_at": null,
+  "results": [
+    {
+      "name": "Glucose, Fasting",
+      "value": 5.6,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 4.1,
+      "unit": null,
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 4.2,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 0.95,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 1.03,
+        "high": null
+      },
+      "status": "low",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 2.71,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 47.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": "Liver Function"
+    }
+  ]
+}

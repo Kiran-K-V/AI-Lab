@@ -1,0 +1,67 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": "ACC-383406",
+  "patient": {
+    "name": "Noah Kim",
+    "sex": "male",
+    "date_of_birth": "1954-01-01",
+    "patient_id": "P47256"
+  },
+  "ordering_physician": "Dr. Priya Chen",
+  "collected_at": "2026-10-07T07:12:00",
+  "reported_at": "2026-10-07T20:12:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 13.6,
+      "unit": "g/dL",
+      "reference_range": {
+        "low": 12.0,
+        "high": 17.5
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 106.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 70.0,
+        "high": 99.0
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 4.7,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 121.0,
+      "unit": "mg/dL",
+      "reference_range": null,
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 40.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": "Liver Function"
+    }
+  ]
+}

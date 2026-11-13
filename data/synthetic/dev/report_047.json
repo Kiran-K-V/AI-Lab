@@ -1,0 +1,78 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-827062",
+  "patient": {
+    "name": "Sofia Chen",
+    "sex": "female",
+    "date_of_birth": null,
+    "patient_id": "P66139"
+  },
+  "ordering_physician": "Dr. Ava Rossi",
+  "collected_at": "2026-06-21T08:46:00",
+  "reported_at": "2026-06-22T11:46:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 144.0,
+      "unit": "g/L",
+      "reference_range": {
+        "low": 120.0,
+        "high": 175.0
+      },
+      "status": "normal",
+      "panel": "Complete Blood Count"
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 7.2,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Creatinine",
+      "value": 63.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 1.28,
+      "unit": null,
+      "reference_range": null,
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "Triglycerides",
+      "value": 0.54,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "ALT",
+      "value": 41.0,
+      "unit": "U/L",
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": "Liver Function"
+    }
+  ]
+}

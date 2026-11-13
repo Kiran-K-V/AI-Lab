@@ -1,0 +1,59 @@
+{
+  "lab_name": "Apex Pathology Services",
+  "accession_number": "ACC-293742",
+  "patient": {
+    "name": "Omar Rossi",
+    "sex": "male",
+    "date_of_birth": "1960-02-16",
+    "patient_id": null
+  },
+  "ordering_physician": "Dr. Maya Okafor",
+  "collected_at": "2026-06-19T09:56:00",
+  "reported_at": "2026-06-20T14:56:00",
+  "results": [
+    {
+      "name": "Glucose, Fasting",
+      "value": 57.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 70.0,
+        "high": 99.0
+      },
+      "status": "low",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Potassium",
+      "value": 5.3,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "high",
+      "panel": "Metabolic Panel"
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 234.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": null,
+        "high": 200.0
+      },
+      "status": "high",
+      "panel": "Lipid Panel"
+    },
+    {
+      "name": "HDL Cholesterol",
+      "value": 50.0,
+      "unit": "mg/dL",
+      "reference_range": {
+        "low": 40.0,
+        "high": null
+      },
+      "status": "normal",
+      "panel": "Lipid Panel"
+    }
+  ]
+}

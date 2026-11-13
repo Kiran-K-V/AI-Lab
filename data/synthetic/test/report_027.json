@@ -1,0 +1,100 @@
+{
+  "lab_name": "Meridian Clinical Laboratory",
+  "accession_number": "ACC-969235",
+  "patient": {
+    "name": "Hana Rossi",
+    "sex": "male",
+    "date_of_birth": "1994-08-07",
+    "patient_id": "P95252"
+  },
+  "ordering_physician": "Dr. Sofia Nguyen",
+  "collected_at": "2026-05-12T07:20:00",
+  "reported_at": "2026-05-14T00:20:00",
+  "results": [
+    {
+      "name": "Hemoglobin",
+      "value": 145.0,
+      "unit": "g/L",
+      "reference_range": null,
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "WBC Count",
+      "value": 9.0,
+      "unit": "x10^3/uL",
+      "reference_range": {
+        "low": 4.0,
+        "high": 11.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Glucose, Fasting",
+      "value": 6.6,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.9,
+        "high": 5.5
+      },
+      "status": "high",
+      "panel": null
+    },
+    {
+      "name": "Creatinine",
+      "value": 93.0,
+      "unit": "umol/L",
+      "reference_range": {
+        "low": 53.0,
+        "high": 115.0
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Potassium",
+      "value": 5.0,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": 3.5,
+        "high": 5.1
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Total Cholesterol",
+      "value": 4.6,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 5.2
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "Triglycerides",
+      "value": 1.64,
+      "unit": "mmol/L",
+      "reference_range": {
+        "low": null,
+        "high": 1.69
+      },
+      "status": "normal",
+      "panel": null
+    },
+    {
+      "name": "ALT",
+      "value": 34.0,
+      "unit": null,
+      "reference_range": {
+        "low": 7.0,
+        "high": 56.0
+      },
+      "status": "normal",
+      "panel": null
+    }
+  ]
+}
