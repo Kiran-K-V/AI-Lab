@@ -1,6 +1,15 @@
+.env
+.env.*
+!.env.example
 .venv/
+node_modules/
 __pycache__/
+*.pyc
 .mypy_cache/
 .ruff_cache/
-.deepeval/
-.env
+.pytest_cache/
+.DS_Store
+dist/
+build/
+.terraform/
+*.tfstate*
